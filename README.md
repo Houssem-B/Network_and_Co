@@ -10,7 +10,7 @@ l'édition du profil permmettant de modifier sa catégorie, nom, prénom, mail, 
 L'agenda permet l'affichage à la date des évènements, réunion, menu de la caféteria.
 
 ## Page d'inscription 
-<img src="https://user-images.githubusercontent.com/82309879/115141637-baa8b580-a03d-11eb-85e5-27caab432cfc.png">
+<img src="https://user-images.githubusercontent.com/82309879/115142443-0eb59900-a042-11eb-8a3c-2f5ce71055e3.png">
 
 ## Page de connection
 <img src="https://user-images.githubusercontent.com/82309879/115141479-d2336e80-a03c-11eb-9dc7-b51d5fdd36e6.png">
