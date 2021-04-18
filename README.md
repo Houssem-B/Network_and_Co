@@ -1,24 +1,19 @@
-# network
+# Network & Co
 
-## Project setup
-```
-npm install
-```
+Network & Co est un réseau social interne pour entreprise réalisé en Vue.js, J'ai été en équipe avec 3 autres développeurs pour ce projet.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Le but étant de faire circuler l'information le plus efficacement possible. 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Les fonctionnalités sont les suivantes : l'inscription, la connexion & la deconnexion, en faisant des requêtes GET, POST, PUT vers l'API, et en stockant un token de connexion.
+la publication de post, le like de post, et commenter des posts.
+l'édition du profil permmettant de modifier sa catégorie, nom, prénom, mail, mot de passe et d'ajouter une photo de profil.
+L'agenda permet l'affichage à la date des évènements, réunion, menu de la caféteria.
 
-### Lints and fixes files
-```
-npm run lint
-```
+# Page de connection
+<img src="https://user-images.githubusercontent.com/82309879/115141479-d2336e80-a03c-11eb-9dc7-b51d5fdd36e6.png">![Page_de_connexion](https://user-images.githubusercontent.com/82309879/115141495-f3945a80-a03c-11eb-87c8-93954c384ad3.PNG)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+
+
