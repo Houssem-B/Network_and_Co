@@ -15,7 +15,7 @@ L'agenda permet l'affichage à la date des évènements, réunion, menu de la ca
 ## Page de connection
 <img src="https://user-images.githubusercontent.com/82309879/115141479-d2336e80-a03c-11eb-9dc7-b51d5fdd36e6.png">
 
-## Post, Comment, Like
+## Posts, Comments et Likes
 <img src="https://user-images.githubusercontent.com/82309879/115142288-39ebb880-a041-11eb-989e-88a1656f158d.png">
 
 ## Edition du Profil
